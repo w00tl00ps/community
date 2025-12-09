@@ -1,4 +1,4 @@
-<user.letter>: key(letter)
+# <user.letter>: key(letter)
 (ship | uppercase) <user.letters> [(lowercase | sunk)]:
     user.insert_formatted(letters, "ALL_CAPS")
 <user.symbol_key>: key(symbol_key)

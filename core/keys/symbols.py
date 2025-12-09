@@ -60,7 +60,7 @@ symbols = [
     Symbol(";", ["semicolon"]),
     Symbol(":", ["colon"]),
     Symbol("?", ["question mark"], ["question"]),
-    Symbol("!", ["exclamation mark", "exclamation point"], ["bang"]),
+    Symbol("!", ["exclamation mark", "exclamation point"]),
     Symbol("*", ["asterisk"], ["star"]),
     Symbol("#", ["hash sign", "number sign"], ["hash"]),
     Symbol("%", ["percent sign"], ["percent"]),
